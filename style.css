@@ -1,0 +1,22 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+.bg{
+  background-image: url("lakebg.jpg");
+  background-size: cover;  
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  color:white;
+  text-align:center;
+  padding-top:135px;
+
+}
+.container{
+	color:white;
+	width:"50%";
+}
+.navbar{
+	color:white;
+}
